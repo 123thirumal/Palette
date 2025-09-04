@@ -24,7 +24,7 @@ The game is designed to be simple, fun, and visually engaging.
 
 | Home Screen | Gameplay | Scoreboard |
 |-------------|----------|------------|
-| ![Home](assets/screenshots/img1,jpeg) | ![Gameplay](assets/screenshots/img2.jpeg) | ![Scoreboard](assets/img3.jpeg) |
+| ![Home](assets/screenshots/img1,jpg) | ![Gameplay](assets/screenshots/img2.jpg) | ![Scoreboard](assets/img3.jpg) |
 
 *(Replace the image paths with your actual screenshots — you can keep them in an `assets/screenshots/` folder or link to GitHub-hosted images.)*
 
