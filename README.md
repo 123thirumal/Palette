@@ -36,7 +36,7 @@ If you want to run this project locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/palette.git
+git clone https://github.com/123thirumal/palette.git
 cd palette
 
 # Get dependencies
